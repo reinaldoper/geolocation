@@ -8,7 +8,7 @@ import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 import { myMunicipio } from './Map/fetchCep';
 
 
-let defaultCenter = [-22.8397375, -43.2686432];
+let defaultCenter = [-22.9034, -43.1917];
 const defaultZoom = 18;
 const DefaultIcon = L.icon({
   iconUrl: icon,
